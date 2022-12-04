@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juliana</h1>
 <h3 align="center">A passionate & curious frontend developer currently based in Singapore</h3>
 
-- 🔭 I’m currently working on **interview preps**
+- 🔭 I’m currently working on **being a Junior FrontEnd Developer**
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, Material UI**
 
